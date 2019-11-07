@@ -7,3 +7,4 @@
 4.- Intalar Clover en disco duro
 5.- Disfrutar de CATALINA 100%
 
+.
